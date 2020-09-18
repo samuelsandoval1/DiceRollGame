@@ -1,5 +1,3 @@
-# Intermediate Python Course
+# Dice Roller
 
-Hey there, 
-
-In this course you will create a dice-rolling program using python. The code you create will be stored in the dice-roller.py file. This repo also contains course materials under the issues tab. 
+A terminal based game where users can play a dice rolling game. This was built using Python.
